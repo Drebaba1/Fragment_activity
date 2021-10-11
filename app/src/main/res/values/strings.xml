@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Activity Fragment</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_to_kodecamp">Welcome to kodecamp</string>
+    <string name="tell_us_about_yourself">Tell us about yourself</string>
+    <string name="submit">Submit</string>
+</resources>
